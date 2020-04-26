@@ -7,7 +7,7 @@ public class Test {
 		if(durst == "yes") {
 			System.out.println("Nehmen Sie Bitte etwas zum trinken!");
 		}else {
-			System.out.println("arbeiten Sie Bitte weiter!");
+			System.out.println("arbeiten Sie Bitte weiter");
 		}
 		
 		
